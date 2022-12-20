@@ -1,0 +1,15 @@
+.search {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.search__input {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.search__btn {
+    border-radius: 5px;
+    padding: 10px;
+}

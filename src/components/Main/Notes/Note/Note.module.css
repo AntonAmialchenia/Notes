@@ -1,0 +1,10 @@
+.item {
+    background-color: rgb(135, 133, 133);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.item:not(:last-child) {
+    margin-bottom: 15px;
+
+}

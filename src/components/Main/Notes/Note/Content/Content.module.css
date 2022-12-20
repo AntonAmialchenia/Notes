@@ -1,0 +1,25 @@
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    gap: 10px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.text span {
+    color: rgb(33, 3, 139);
+}
+.buttons {
+    display: flex;
+    gap: 15px;
+}
+.button__edit,
+.button__del {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.button__del {}

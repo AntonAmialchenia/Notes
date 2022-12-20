@@ -1,0 +1,8 @@
+.tags {
+    display: flex;
+    gap: 10px;
+}
+
+.tag {
+    color: rgb(33, 3, 139);
+}

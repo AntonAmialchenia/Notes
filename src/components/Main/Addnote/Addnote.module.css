@@ -7,9 +7,18 @@
 .add_note__input {
     border-radius: 5px;
     padding: 10px;
+    width: 400px;
+    
 }
 
 .add_note__btn {
     padding: 10px;
     border-radius: 5px;
+    background-color: rgb(181, 167, 243);
+    transition: background-color 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.add_note__btn:hover {
+    background-color: rgb(107, 90, 180);;
 }
